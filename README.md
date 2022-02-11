@@ -13,7 +13,7 @@ Company who assists business' with advertising their business' on search engines
 * Logical HTML Adjustments
 
 ## Screenshots
-<img src="./assets/images/screenshot-completed">
+<img src="https://i.ibb.co/30S8Lkk/screenshot-completed.png">
 
 ## Website
 https://a-wiles.github.io/Horiseon-Challenge-Page/
